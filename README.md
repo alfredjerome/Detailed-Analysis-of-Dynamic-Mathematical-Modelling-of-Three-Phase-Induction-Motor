@@ -1,0 +1,1 @@
+# Detailed-Analysis-of-Dynamic-Mathematical-Modelling-of-Three-Phase-Induction-Motor
