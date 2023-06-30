@@ -1,4 +1,4 @@
-# Project Title: Direct Torque Control (DTC) Technique for Induction Motor Control
+#  Direct Torque Control (DTC) Technique for Induction Motor Control
 
 ## Project Overview:
 This project deals with the Direct Torque Control (DTC) technique used in the control of induction motors to achieve fast and precise control of torque and speed. DTC provides several advantages over traditional methods of induction motor control, including faster response times, improved efficiency, and reduced harmonic distortion. The project focuses on implementing DTC using a two-level inverter controller for speed control in electric motors. The controller produces a variable frequency AC output voltage by turning the switches on and off in a specific pattern, providing a high level of control over the motor. However, this control method can result in high levels of harmonic distortion in the output voltage. To overcome this limitation, the project utilizes Space Vector Pulse Width Modulation (SVPWM) techniques. The proposed method is validated through simulation results using Matlab/Simulink.
